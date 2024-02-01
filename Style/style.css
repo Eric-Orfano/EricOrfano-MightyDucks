@@ -21,7 +21,6 @@ h1{
     top:11%;
     left: 70%;
     box-shadow: 5px;
-    
 }
 
 header a{
@@ -33,6 +32,7 @@ header a{
     padding: 9px;
     margin: 5px;
     box-shadow: 10px 10px 20px 0 black;
+    border-radius: 10px;
 }
 
 .header_banner_principal{
