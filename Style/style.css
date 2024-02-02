@@ -21,7 +21,7 @@ h1{
     position: absolute;
     top:11%;
     left: 70%;
-    box-shadow: 5px;
+    box-shadow: 5px 5px 10px 0 black;
 }
 
 header a{
