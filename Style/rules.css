@@ -10,9 +10,10 @@
     color: black;
     padding: 25px;
     margin: 5px;
-    border-top: 4px solid blueviolet;
-    background-color:antiquewhite;
+    background-color:rgb(163, 163, 163);
     gap: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 
 section1{
@@ -29,6 +30,6 @@ section1{
     padding: 25px 0 0 0;
 }
 
-ol{
+ol li{
     list-style-type: lower-latin;
 }
