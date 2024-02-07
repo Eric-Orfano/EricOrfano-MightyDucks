@@ -29,6 +29,7 @@ html{
     display: flex;
     flex-direction:row;
     flex-wrap: wrap;
+    background-color: black;
 }
 
 .header_tiulo_principal{
@@ -59,8 +60,7 @@ html{
 
 .header_banner_principal {
     min-width: 100%;
-    height: 400px;
-    margin-top: 10px;
+    height: 100vh;
 }
 
 [href="#"]{
