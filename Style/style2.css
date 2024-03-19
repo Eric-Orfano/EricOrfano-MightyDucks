@@ -6,7 +6,7 @@
 
 html {
     background-color: white;
-    background-image: url(../Image/Logo/logo2.jpg);
+    /* background-image: url(../Image/Logo/logo2.jpg); */
     background-repeat: repeat;
     background-size: 50px 50px;
 }
@@ -14,8 +14,6 @@ html {
 .body_div {
     border: 2px solid black;
     margin-top: 0;
-    margin-left: 50px;
-    margin-right: 50px;
     background-color: black;
     min-height: 100vh;
 }
